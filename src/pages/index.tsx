@@ -10,7 +10,7 @@ const Home: React.FC = () => {
         <title>Homepage</title>
       </Head>
 
-      <h1>ReactJS Structure</h1>
+      <h1>ReactJS</h1>
       <p>A ReactJS + Next.js by Lironnick.</p>
     </Container>
   )
